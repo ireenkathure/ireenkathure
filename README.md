@@ -3,7 +3,7 @@
 S12 @IYF WeCan Academy |Aspiring Full-Stack-Dev |Nairobi
 
 ## My Developer Identity
--Name: ireen kathure
+- Name: ireen kathure
 
 -GitHub: @ireenkathure
 
