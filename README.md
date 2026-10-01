@@ -9,6 +9,6 @@ S12 @IYF WeCan Academy |Aspiring Full-Stack-Dev |Nairobi
 
 - Live page: https://ireenkathure.github.io
 
-- git config--global user .email "kathureireen2021@gmail.com"
+- git config --global user .email "kathureireen2021@gmail.com"
 
 ## Git  Config
